@@ -1,0 +1,141 @@
+header{
+
+	background: #3B5998;
+	height: 85px;
+	width: 100%;
+	color: white;
+	position: relative;
+	top: -30px;
+}
+
+header button{
+
+	background: #5B74A9;
+	border:1px solid  #5B74A9;
+	color: white;
+	font-size: 12px;
+	font-weight: bolder;
+	cursor: pointer;
+	height: 20px;
+	margin: 5px;
+	position: relative;
+	left: -40px;
+}
+
+header button:hover{
+
+  background: #3B5998;
+
+}
+
+
+header h1{
+
+	font-size: 40px;
+	position: relative;
+	left: 200px;
+	top: 20px;
+	cursor: pointer;
+}
+
+header .form_login{
+
+   float: right;
+   margin: 10px;
+   position: relative;
+   top: -50px;
+
+}
+
+
+.form_register{
+
+	margin: 20px;
+	float: right;
+	position: relative;
+	left:-200px;
+	top: -300px;
+}
+
+ .form_register input{
+   display: block;
+   margin: 18px;
+
+}
+
+.form_register button{
+
+	background: #66A853;
+	border-radius: 3px;
+	border:1px solid gray;
+	color: white;
+	font-size: 20px;
+	height: 40px;
+	width: 220px;
+	cursor: pointer;
+}
+
+.form_register button:hover{
+
+opacity: 0.9;
+}
+
+
+.text_fb{
+
+	color: rgb(0,0,50); 
+	margin: 5px; 
+	font-weight: bolder; 
+	position: relative; 
+	left: 55px;
+	font-size: 20px;
+}
+
+
+.container_map{
+
+	position: relative;
+	left:150px; 
+}
+
+.span_correo{
+
+   position: relative;
+   top: -25px;
+   font-size: 12px;
+   left: 103px;
+}
+
+
+.span_pass{
+     position: relative;
+   top: -25px;
+   left: 17px;
+   font-size: 12px;
+
+}
+
+#input_user{
+
+	width: 150px;
+}
+
+
+#input_pass{
+
+	width: 150px;
+	position: relative;
+	left: -50px;
+}
+
+body{
+
+	font-family: "roboto", "sans-serif";
+	background: rgb(240,240,240);
+
+}
+
+article{
+
+	margin: 0px;
+}
